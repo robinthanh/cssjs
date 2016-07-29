@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://thuthiemcity.info/' target='_blank'><img src='https://lh3.googleusercontent.com/proxy/i_nz5okl2fomWpgpJ1fk6UisWmuOEFNwiFAr1N0ODOP_2QZ6-Vbidycq3hrtZfTRN_qgodPEqUjj26YCMB200g6AKQ-SzUTgW3ufgtZoEvhxTzSZr98byD67deia8CqB43Wcx4fX2u2W-lzSiX7jkHVHX_DYcD9hp8Y=w530-h278-p-rw' width='500px'/><br/>Căn Hộ Hà Đô Centrosa</a>. Hotline 09xxx.xxx. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://thuthiemcity.info/' target='_blank'><img src='http://thuthiemcity.info/wp-content/uploads/2016/07/M%E1%BA%B6T-B%E1%BA%B0NG-T%E1%BB%94NG-TH%E1%BB%82-702x336.jpg' width='500px'/><br/>Hà Đô Centrosa</a>. Hotline 093 206 33 18. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
